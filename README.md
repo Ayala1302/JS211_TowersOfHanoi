@@ -12,6 +12,13 @@
 
 Your checkpoint is really a terminal app; which is what you'll be graded on. However, you should push to use the DOM and create a GUI for this game.
 
+<!-- MY CODE PLAN: -->
+1. Get familiar with what the game is and how it works as well as the rules.
+2. Look over the code first and try to make sense of what each line is doing and how they all work together, make sure to read all the comments.
+3. Go through each empty function and think about what that function is doing or should do.
+4. Write out my solution step by step on paper first and try to figure out how to fix the game.
+5. Start at the very top where you will need to write your code and transfer what you wrote down to actual code, while making sure to console log everything to make sure it works.
+
 ## Checklist
 
 <!-- This is for their personal navigation through the project. They can go through and make sure they get each thing and can comb over it later.  -->
